@@ -20,7 +20,7 @@ http://vintage-basic.net/games.html
 * bullseye - input array
 * bunny - set tab at desired position
 * calendar - mess in the output
-* checkers - next with multiple vars
+* checkers - complex logical expression
 * digits - input array
 * flipflop - some computation error
 * ftball - input array
@@ -42,5 +42,4 @@ http://vintage-basic.net/games.html
 * stockmarket - input array
 * superstartrek - def fn
 * tictactoe1 - def fn
-* tictactoe2 - ???
 * weekday - def fn
